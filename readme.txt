@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Git add merge.
 Git checkout bug branch!
+##########################
+Git fetch rebase 
